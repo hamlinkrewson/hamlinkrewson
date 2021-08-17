@@ -1,5 +1,4 @@
 <!--
-UnComment the header
 ![Header](https://github.com/hkrewson/hkrewson/raw/main/Banner.png "Header")
 -->
 
